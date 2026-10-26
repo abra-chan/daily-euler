@@ -18,4 +18,6 @@ it puts me into creative mode vs consumptive
 
 **deadline:** 1200hrs eastern daily
 
+**references:** [register here](https://projecteuler.net/register)
+
 LET'S GO
